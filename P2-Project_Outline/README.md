@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The application will create a centralized location for support services in the community.  Users will be able to search sercies by category and proximity to a location as well as set alerts for services that fit their support needs. In future releases, users will be able to review services and providers will be able to create and update services and events.
+The application will create a centralized location for support services in the community.  Users will be able to search services by category and proximity to a location as well as set alerts for services that fit their support needs. In future releases, users will be able to review services and providers will be able to create and update services and events.
 
 ### Features
 Login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
